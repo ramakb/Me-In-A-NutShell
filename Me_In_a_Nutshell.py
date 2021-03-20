@@ -1,4 +1,4 @@
-print("Enter 'Rama's Workign Status - either 'True or False' here : " )
+print("Enter 'Rama's Workin Status - either 'True or False' here : " )
 rama_is_working = input()
 if (rama_is_working == "True"):
 	print("\n \n ...... Enjoys the work and challenges ...... \n \n")
